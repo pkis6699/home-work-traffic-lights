@@ -1,2 +1,2 @@
 #traffic-lights <br>
-Светофор при помощи HTML,CSS, JavaScript
+Реализация светофора при помощи HTML,CSS, JavaScript
