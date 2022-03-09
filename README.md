@@ -1,2 +1,2 @@
-# home-work-traffic-lights
+#-traffic-lights
 Светофор при помощи HTML,CSS, JavaScript
